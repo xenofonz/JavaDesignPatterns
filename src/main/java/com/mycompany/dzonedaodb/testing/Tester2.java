@@ -14,6 +14,13 @@ public class Tester2 {
     public static void main(String[] args){
         
         System.out.println("Tester No2 working");
+        
+        
+        
+        //new line
+        String[] strings = {"One","Two","Three","Four","Five"};
+        for(String s : strings)
+            System.out.println(s);
     }
     
 }
